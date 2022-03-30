@@ -1,0 +1,24 @@
+<!--on the other hand <table width="100%" and height="50%">denotes the width of the table is 100% of the screen and height is 50% of the browser screen.It denotes the relative values-->
+<html>
+    <head>
+        <title>Same but in repeat mode </title> 
+    </head>
+    <body>
+        <table border="2" width="100%"height="50%">
+            <tr>
+                <th>name</th>
+                <th>City</th>
+                <th>age</th>
+            </tr>
+            <tr>
+                <td>AAA</td><td>mumbai</td><td>10.yrs</td>
+            </tr>
+            <tr>
+                <td>BBB</td><td>pune</td><td>20.yrs</td>
+            </tr>
+            <tr>
+                <td>CCC</td><td>patna</td><td></td>
+            </tr>
+        </table>
+    </body>
+</html>
